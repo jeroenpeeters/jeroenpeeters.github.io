@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 1
+date: 2017-01-01
+img: ictu.jpg
+alt: ICTU
+project-date: 2017
+client: ICTU
+category: Software Engineering
+description: As a member of the core team I help and guide projects in the world of continuous delivery, software quality assurance and agile development processes. I help them to resolve any impediments they may encounter along the way. Furthermore I help clients and hosting parties to integrate the team's output into their environments, extending the continuous delivery experience. 
+
+---
