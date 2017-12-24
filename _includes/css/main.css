@@ -98,7 +98,7 @@ header {
     text-align: center;
     color: #fff;
     background: #{{ site.color.primary }};
-    background-image: url(http://jeroenpeeters.nl/images/cover1.jpg);
+    background-image: url(/img/cover1.jpg);
     background-position: top;
     background-size: cover;
 }
