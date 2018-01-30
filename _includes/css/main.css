@@ -97,9 +97,7 @@ hr.star-primary:after {
 header {
     text-align: center;
     color: #fff;
-    background: #{{ site.color.primary }};
-    background-image: url(/img/cover2.jpg);
-    background-position-y: -260px;
+    background: url(/img/cover2.jpg) no-repeat center center;
     background-size: cover;
 }
 
