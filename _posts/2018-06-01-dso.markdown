@@ -1,0 +1,20 @@
+---
+layout: default
+modal-id: 3
+date: 2018-06-01
+img: dso.png
+alt: DSO - Rijkswaterstaat
+project-date: 2018 - 2019
+client: DSO - Rijkswaterstaat
+category: Software Engineering
+title: DSO - Rijkswaterstaat
+description: |
+        Binnen het project Gebruikerstoepassingen van het Digitaal Stelsel Omgevingswet (DSO) vervul ik de rol van senior software engineer. Met een team ontwikkelen wij volgens Agile-Scrum een aantal gebruikerstoepassingen: 
+        Oriënteren en inzien (raadplegen wetgeving en andere informatie),
+        Checken vergunning/meldplicht, 
+        Checken bijlagen voor een aanvraag/melding, 
+        Checken voorschriften en maatregelen, 
+        Indienen aanvraag/melding.
+        
+        Mijn bijdragen strekken zich uit van backend (Java/Spring Boot & PostgresQL) tot frontend (JS/React),  full stack dus. Een belangrijke bijdrage is het toepassen van toegankelijkheidseisen in de frontend applicaties volgens de Web Content Accessibility Guidelines (WCAG).
+---

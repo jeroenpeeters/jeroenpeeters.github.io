@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 2
+date: 2018-01-01
+img: hyperdev.png
+alt: HyperDev
+project-date: 2017 - 2019
+client: HyperDev
+category: Software Engineering
+description:  HyperDev - A continuous development platform. I was involved in HyperDev as co-founder, CTO and CFO. Together with a small team (5 people) we developed a cloud-based secure development platform (CI/CD) for devops teams. I was responsible for architecture and development of the software needed to run a CI/CD platform. Furthermore I was responsible for finances and coordination of support. Starting November 2019 HyperDev merged into one of its largest clients.
+---

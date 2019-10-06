@@ -1,7 +1,7 @@
 # Site settings
 title: Peeters IT Consultancy
 email: jeroen@peetersweb.nl
-url: https://example.github.io
+url: https://jeroenpeeters.nl
 description: "Passionate Software Engineer"
 keywords: "software engineering, software development"
 skills: "Software Engineering - Quality Assurance - Agile Process"
@@ -35,7 +35,7 @@ footer:
   copyright: Jeroen Peeters
   location: Region
   social: Around the Web
-  available_as: Available as 
+  available_as: Available as
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -55,7 +55,7 @@ address:
   - line: Rotterdam
 
 # Credits content
-available_as: 
+available_as:
   - title: Senior Software Engineer
   - title: Technical Lead
   - title: Solution Architect
