@@ -4,6 +4,12 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
+#portfolio .img-responsive {
+    max-height: 150px;
+    margin: auto;
+}
+
+
 .resume-icon {
     font-size: 30px;
 }
