@@ -240,7 +240,7 @@ section.success {
 
 @media(max-width:767px) {
     section {
-        padding: 75px 0;
+        padding: 50px 0;
     }
 
     section.first {
@@ -259,6 +259,12 @@ section.success {
         background-color: white;
     }
 }
+@media(max-width:767px) {
+    #portfolio .portfolio-item {
+        padding-bottom: 25px;
+    }
+}
+
 
 #portfolio .portfolio-item {
     right: 0;
